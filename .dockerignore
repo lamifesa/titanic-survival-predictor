@@ -1,0 +1,7 @@
+# To stop unnecessary duplicates
+mlruns/
+data-preprocessing.ipynb
+__pycache__/
+*.pyc
+.env
+venv/
