@@ -88,12 +88,12 @@ mlflow ui
 Then open `http://localhost:5000`
 
 ## Project Structure
-├── data-preprocessing.ipynb# Data cleaning, encoding, MLflow training
-├── main.py                    # FastAPI application
-├── columns.json               # Column order for inference
-├── Dockerfile                 # Container definition
-├── .dockerignore
-├── requirements.txt
+├── data-preprocessing.ipynb   # Data cleaning, encoding, MLflow training <br>
+├── main.py                    # FastAPI application <br>
+├── columns.json               # Column order for inference <br>
+├── Dockerfile                 # Container definition <br>
+├── .dockerignore <br>
+├── requirements.txt <br>
 └── README.md 
 
 ## Note on Model File
