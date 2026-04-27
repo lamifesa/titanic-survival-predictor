@@ -3,7 +3,7 @@ A production-style machine learning API that predicts the survival likelihood of
 Built to demonstrate end-to-end ML engineering practices - from data preprocessing and experiment tracking to containerised API deployment.
 
 # Links
-- **Docker Hub:**
+- **Docker Hub:** hub.docker.com/repository/docker/lamifesa/titanic-predictor
 
 ## Project Overview
 A KNN classifier is trained on the Titanic dataset and served as a REST API using FastAPI. The project follows production ML engineering practices including experiment tracking, model versioning, and containerised deployment.
