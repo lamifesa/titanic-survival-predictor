@@ -97,7 +97,7 @@ Then open `http://localhost:5000`
 └── README.md 
 
 ## Note on Model File
-The trained model (`knn_model.pkl`) is not committed to this repository due to file size. To regenerate it, run all cells in `data-processing.ipynb`, The model will be saved automatically.
+The trained model (`knn_model.pkl`) is not committed to this repository due to file size, but is included in the Docker image. If running locally without Docker, regenerate it by running all cells in `data-processing.ipynb`. The model will be saved automatically.
 
 ## Development Note
 This project was built as a learning exercise in ML engineering. 
