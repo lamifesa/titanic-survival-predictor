@@ -1,4 +1,4 @@
-# Titanic Survival Predictor - ML AP!
+# Titanic Survival Predictor - ML API
 A production-style machine learning API that predicts the survival likelihood of Titanic passengers based on demographic and travel data.
 Built to demonstrate end-to-end ML engineering practices - from data preprocessing and experiment tracking to containerised API deployment.
 
